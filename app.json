@@ -10,7 +10,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": ".",
+      "value": "?",
       "required": true
     },
     "AUTO_REJECT_CALL": {
@@ -85,7 +85,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "MARINE-TECH",
       "required": false
     },
     "SESSION_ID": {
@@ -110,12 +110,12 @@
     },
    "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },	  
     "GROUPANTILINK": {
       "description": "Enable anti-link in groups (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "CHATBOT": {
@@ -125,7 +125,7 @@
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "GOODBYE_MESSAGE": {
