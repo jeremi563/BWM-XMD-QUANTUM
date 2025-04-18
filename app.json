@@ -125,7 +125,7 @@
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "GOODBYE_MESSAGE": {
