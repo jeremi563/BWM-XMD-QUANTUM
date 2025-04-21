@@ -1,5 +1,5 @@
 {
-  "name": "Bwmxmd",
+  "name": "Marinexmd",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
+    "Marinexmd",
     "quantum",
     "whatsapp-bot",
     "Ibrahim-Adams"
