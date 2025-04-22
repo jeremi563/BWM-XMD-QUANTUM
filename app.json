@@ -120,7 +120,7 @@
     },
     "CHATBOT": {
       "description": "Enable text chatbot (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "WELCOME_MESSAGE": {
